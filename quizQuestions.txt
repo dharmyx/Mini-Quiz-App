@@ -34,3 +34,143 @@ q5:     Whose face was said to have launched 1000 ships?
     option3:    Bebby of AngkorWat
     option4:    Helen of Troy
 A:  option4
+
+q6:     How many legs does the legs of the MAN have?
+    option1:    Seven
+    option2:    Two
+    option3:    Six
+    option4:    Three
+A:  option4
+
+q7:     it is illegal in Georgia to do what with a fork?
+    option1:    Eat Pottage
+    option2:    Eat Rice
+    option3:    Eat fried chicken
+    option4:    all of the above
+A:  option3
+
+q8:     The average person does what 13 times a day?
+    option1:    Masturbate
+    option2:    Chop fish (aka Igbo)
+    option3:    Sleeps
+    option4:    Laughs
+A:  option4
+
+q9      Name the world's biggest island.
+    option1:    Greenland
+    option2:    Kuvuki land
+    option3:    Snake island
+    option4:    Orematopae island
+A:  option1
+
+q10:    Name the only heavyweight boxing champion to finish his career of 49 fights without ever having been defeated.
+    option1:    Tommy Burns
+    option2:    Bob Fitzsimmons
+    option3:    Rocky Marciano
+    option4:    Mohammed Ali
+A:  option3
+
+q11:    In football, who was nicknamed "The Divine Ponytail"?
+    option1:    Eric Dunne
+    option2:    Ronaldinho
+    option3:    Herman Crespo
+    option4:    Roberto Baggio
+A:  option4
+
+q12:    Name the only footballer to have player for Liverpool, Everton, Manchester city and Manchester United?
+    option1:    Josh Matt 
+    option2:    Peter Beardsley
+    option3:    Tim Howard
+    option4:    Allen Shearer
+A:  option2
+
+q13:    What did blind bank robber David Worrell use as a weapon when trying to rob a bank in London?
+    option1:    Blunderbuss
+    option2:    Cane
+    option3:    Axe
+    option4:    Submachine gun
+A:  option2
+
+q14:    What F-word is defined in physics as a "nuclear reaction in which nuclei combine to form more massive nuclei"?
+    option1:    Fusion
+    option2:    Ficks law of diffusion
+    option3:    Faraday's law
+    option4:    Fouriers law
+A:  option1
+
+q15:    What is so special about the 1896 war between Zanzibar and England?
+    option1:    The war started because of a lady
+    option2:    Almost 100 million lives claimed
+    option3:    It lasted for a decade with economic wars
+    option4:    It was the shortest war ever (zanzibar surrendered after 38 minutes).
+A:  option4
+
+q16:    One-third of Taiwanese funeral processions include what?
+    option1:    An executioner
+    option2:    A stripper
+    option3:    A priest
+    option4:    A judge
+A:  option2
+
+q17:    How do members of the Walibri tribe in central Australia greet each other?
+    option1:    Hand wrestle
+    option2:    Slapping faces
+    option3:    Shaking Penises
+    option4:    Shaking Hands
+A:  option3
+
+q18:    What is a camels dude?
+    option1:    Penis
+    option2:    Brain
+    option3:    Toe
+    option4:    Tongue
+A:  option1
+
+q19:    In what year was the first ever wimbledon championship held?
+    option1:    1788
+    option2:    1877
+    option3:    1930
+    option4:    1629
+A:  option2
+
+q20:    What or Who is the Ford Mustang named after?
+    option1:    A country located in the North Pole
+    option2:    An animal
+    option3:    A fighter plane from WWII
+    option4:    none of the above.
+A:  option3
+
+q21:    How many parts (screws and bolts included) does the average car have?
+    option1:    100,000
+    option2:    600
+    option3:    5,000
+    option4:    30,000
+A:  option4
+
+q22:    About how many taste buds does the average human tongue have?
+    option1:    500
+    option2:    10,000
+    option3:    200
+    option4:    10
+A:  option2
+
+q23:    What is the smallest country in the world?
+    option1:    Naura
+    option2:    Monaco
+    option3:    Vatican city
+    option4:    Marshall island
+A:  option3
+
+q24:    What is the full name of the African-american musician Akon?
+    option1:    Assana Ndeye Fatou
+    option2:    Adama Dieynaba Mousa
+    option3:    Abdoulaye Khady
+    option4:    Aliaume Damala Badara Thuain
+A:  option4
+
+q25:    True or False, You can lick your elbow.
+    option1:    Oya try am na, make we see.
+    option2:    False
+    option3:    Shey you dey whine me ni?
+    option4:    True
+A:  option2
