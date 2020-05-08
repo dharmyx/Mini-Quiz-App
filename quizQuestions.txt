@@ -1,0 +1,36 @@
+*** Questions and Options ***
+
+q1:     In California you can not legally buy a mousetrap without having a what?
+    option1:    Mouse Permit
+    option2:    Hunting License
+    option3:    Exterminator approved license
+    option4:    Gun
+A:  Ooption2
+
+q2:     Coprastastaphobia is the fear of what?
+    option1:    Masturbation
+    option2:    Ovulation
+    option3:    Constipation
+    option4:    Ejaculation
+A:  option3
+
+q3:     Who invented the word "VOMIT"?
+    option1:    William Shakespeare
+    option2:    Abraham Lincoln
+    option3:    Jack Scofield
+    option4:    Wole Soyinka
+A:  option1
+
+q4:     What is the collective noun for a group of unicorns?
+    option1:    Zeedonk
+    option2:    Uniconium
+    option3:    A blessing
+    option4:    Scoobert Doo
+A:  option3
+
+q5:     Whose face was said to have launched 1000 ships?
+    option1:    Reza of Persopolis
+    option2:    Yu of Bagan
+    option3:    Bebby of AngkorWat
+    option4:    Helen of Troy
+A:  option4

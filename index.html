@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Quiz Game</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <!--Intro Section-->
+        <div class="intro">
+            <h2>TRIVIA QUIZ APP</h2>
+        </div>
+        <div class="score-display">
+            <h2>Your score:0 <span class="percentage2"></span></h2>
+        </div>
+        <div class="quiz-container">
+            <div class="question-number">
+                <h3>Question <span class="question-num-value">1</span> in <span class="total-question"></span></h3>
+            </div>
+            <div class="question">
+                
+            </div>
+            <div class="options">
+                <div id="0" class="option1" onclick="check(this)"></div>
+                <div id="1" class="option2" onclick="check(this)"></div>
+                <div id="2" class="option3" onclick="check(this)"></div>
+                <div id="3" class="option4" onclick="check(this)"></div>
+            </div>
+            <div class="button">
+                <button type="button" class="btn" onclick="next()">Next</button>
+            </div>
+            <div class="answer-tracker">
+                
+            </div>
+        </div>
+        <h5>Designed by Damilola Babalola | Start.NG 2020</h5>
+
+        <div class="quiz-over">
+            <div class="box">
+            <h2>You got <span class="correct-answers"></span> out of <span class="total-question2"></span> answers correct! <br>
+                That's <span class="percentage"></span>
+            </h2>
+            <button type="button1" onclick="tryAgain()">Try Again</button>
+            </div>
+        </div>
+
+
+
+        
+        <script src="script.js" async defer></script>
+    </body>
+</html>
