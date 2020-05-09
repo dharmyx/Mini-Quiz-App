@@ -176,7 +176,6 @@ let questions = [{
 
 // Set question Options and question number
 totalQuestionSpan.innerHTML = max_Number;
-
 function load() {
     questionNumberSpan.innerHTML = index + 1;
     question.innerHTML = questions[questionIndex].q;
@@ -187,8 +186,7 @@ function load() {
     index++;
 }
 
-
-
+// Check questions if it mets condition statements
 function check(element) {
     if (element.id == questions[questionIndex].answer) {
         element.classList.add("correct");
@@ -203,6 +201,7 @@ function check(element) {
     disabledOptions();
 }
 
+// Disable options after selecting one option
 function disabledOptions() {
     for (let i = 0; i < options.length; i++) {
         options[i].classList.add("disabled");
@@ -212,15 +211,17 @@ function disabledOptions() {
     }
 }
 
+// Enable options after clicking next 
 function enableOptions() {
     for (let i = 0; i < options.length; i++) {
         options[i].classList.remove("wrong", "disabled", "correct");
     }
 }
 
+// Verification to see if an option is selected
 function validate() {
     if (!options[0].classList.contains("disabled")) {
-        alert("Oga abeg pick one option na, make we for commot here o jare.")
+        alert("Oga! Pick one option na, No go mess up!")
     } else {
         randomQuestions();
     }
@@ -231,12 +232,7 @@ function next() {
     enableOptions();
 }
 
-function getQuestions() {
-    if (questions.length == max_Number) {
-        console.log("quizOver:" + quizOver)
-    }
-}
-
+// Check random number to be displayed
 function randomQuestions() {
     let randomNumber = Math.floor(Math.random() * questions.length);
     let hitDuplicate = 0;
@@ -270,6 +266,7 @@ function randomQuestions() {
     questionRepeat.push(questionIndex);
 }
 
+// Question tracker/ Update progress
 function answerTracker() {
     for (let i = 0; i < max_Number; i++) {
         const div = document.createElement("div")
@@ -281,6 +278,7 @@ function updateAnswerTracker(classNam) {
     answerTrackerBox.children[index - 1].classList.add(classNam);
 }
 
+// Quiz Over 
 function quizOver() {
     document.querySelector(".quiz-over").classList.add("show");
     correctAnswerSpan.innerHTML = score;
@@ -290,11 +288,13 @@ function quizOver() {
 
 function tryAgain() {
     window.location.reload();
-    //window.history.back();
+}
+
+function home() {
+    window.location.href ="index.html";
 }
 
 window.onload = function () {
-    //generateQuestions();
     randomQuestions();
     answerTracker();
 }

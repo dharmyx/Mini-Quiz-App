@@ -8,10 +8,10 @@
 body {
     margin: 0 auto;
     background-image: url(img/bg-quiz7.png);
-    background-repeat: no-repeat;
+    background-repeat: no-repeat 50%;
     background-size: cover;
     font-family: 'Questrial';
-    display: table;
+    /*display: table;*/
     top: 0;
 }
 
@@ -19,6 +19,7 @@ body {
 
 .introSpace {
     margin-top: 150px;
+    max-width: 450px;
 }
 
 .innerSpace {
@@ -99,6 +100,7 @@ body {
 .messUp {
     font-family: 'Sacramento';
     font-size: 20px;
+    margin-top: 20px;
 }
 
 .intro {
@@ -107,7 +109,7 @@ body {
     margin: 0 auto;
     padding: 10px;
     font-size: 20px;
-    color: #062863;
+    color: #262626;
     font-weight: 700;
     animation: rubberBandIn 2s;
 }
@@ -148,7 +150,7 @@ body {
     max-width: 85%;
     padding: 2px;
     color: #fff;
-    background-color: #062863;
+    background-color: #1e2024;
     margin: 0 auto;
     border-radius: 10px;
     text-align: center;
@@ -228,7 +230,7 @@ body {
 }
 
 .options div:hover {
-    background-color: #192f5d;
+    background-color: #1e2024;
     color: #fff;
 }
 
@@ -295,7 +297,7 @@ body {
     border: none;
     text-transform: uppercase;
     color: #ffffff;
-    background-color: #062863;
+    background-color: #1e2024;
     display: inline-block;
     margin: 30px 0 20px;
     animation: pulseInOut 0.5s ease-in-out 5;
@@ -317,7 +319,7 @@ body {
 
 .button:hover .btn:hover {
     cursor: pointer;
-    background-color: #2d2668;
+    background-color: #313133;
 }
 
 .answer-tracker {
@@ -363,7 +365,7 @@ h5 {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: indigo;
+    background-color: #2c2333;
     z-index: 10;
     display: none;
     align-items: center;
@@ -412,12 +414,13 @@ img {
 
 .quiz-over .box button {
     padding: 20px 50px;
-    border-radius: 10px;
+    border-radius: 15px;
     font-size: 16px;
-    background-color: indigo;
+    background-color: #2c2333;
     margin: 15px 0 20px;
     font-weight: 700;
     color: #fff;
+    cursor: pointer;
     animation: pulseInOut 0.5s ease-in-out 5;
 }
 
