@@ -8,7 +8,7 @@
 body {
     margin: 0 auto;
     background-image: url(img/bg-quiz7.png);
-    background-repeat: no-repeat 50%;
+    background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Questrial';
     /*display: table;*/
