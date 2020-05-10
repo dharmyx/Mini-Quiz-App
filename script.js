@@ -1,4 +1,4 @@
-const max_Number = 5;
+const max_Number = 10;
 const options = document.querySelector(".options").children;
 const answerTrackerBox = document.querySelector(".answer-tracker");
 const questionNumberSpan = document.querySelector(".question-num-value");
