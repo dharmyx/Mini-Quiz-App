@@ -7,11 +7,10 @@
 
 body {
     margin: 0 auto;
-    background-image: url(img/bg-quiz7.png);
+    background-image: url(https://res.cloudinary.com/dharmyx/image/upload/v1589106475/Mini-Quiz-App/img/bg-quiz7.png), url(https://res.cloudinary.com/dharmyx/image/upload/v1589107819/Mini-Quiz-App/img/bg-quiz4a.png);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Questrial';
-    /*display: table;*/
     top: 0;
 }
 
@@ -163,7 +162,7 @@ body {
     width: 450px;
     max-width: 85%;
     min-height: 400px;
-    background-color: #f7f7f8;
+    background-color: #f2f3f4;
     box-shadow: 0 0 10px 1px #000;
     margin: 16px auto;
     padding: 20px;
