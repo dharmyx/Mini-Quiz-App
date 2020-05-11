@@ -172,6 +172,18 @@ let questions = [{
         answer: 1
     },
 
+    {
+        q: 'True or False, You can lick your elbow.',
+        options: ['Oya try am na, make we see.', 'False', 'Shey you dey whine me ni?', 'True'],
+        answer: 1
+    },
+
+    {
+        q: 'True or False, You can lick your elbow.',
+        options: ['Oya try am na, make we see.', 'False', 'Shey you dey whine me ni?', 'True'],
+        answer: 1
+    },
+
 ]
 
 // Set question Options and question number

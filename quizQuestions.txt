@@ -174,3 +174,103 @@ q25:    True or False, You can lick your elbow.
     option3:    Shey you dey whine me ni?
     option4:    True
 A:  option2
+
+q26:    Which actress played Katriss Everdeen in "The Hunger Games"?
+    option1:    Jenifer Lawrence
+    option2:    Alexa Scott
+    option3:    Cameron Diaz
+    option4:    Julia Roberts
+A:  option1
+
+q27:    Which state is known as the Empire State?
+    option1:    Washington DC
+    option2:    Chicago
+    option3:    New york
+    option4:    California
+A:  option3
+
+q28:    Where is the Bermuda Triangle situated?
+    option1:    In the Northern part of the South Atlantic ocean
+    option2:    In the Eastern part of the South Atlantic ocean
+    option3:    In the Southern part of the North Atlantic ocean
+    option4:    In the Western part of the North Atlantic ocean
+A:  option4
+
+q29:    Who is Googled more than Jesus?
+    option1:    Jamie Fox
+    option2:    Justin Beiber
+    option3:    Tim Westwood
+    option4:    Donald Trump
+A:  option2     
+
+q30:    Who was the First Black President of the United States?
+    option1:    Thomas Contee
+    option2:    Barrack Obama
+    option3:    Douglass George
+    option4:    John Hanson
+A:  option4
+
+q31:    Which country has not fought a war since 1814?
+    option1:    Belgium
+    option2:    Romania
+    option3:    Sweden
+    option4:    Lithuania
+A:  option3
+
+q32:    Who scored the first goal at Wembley Stadium?
+    option1:    David Jack
+    option2:    Billy Bassett
+    option3:    Wilf Mannion
+    option4:    Steve Bloomer
+A:  option1
+
+q33:    Brazilian legend Pele played for which US Major league outfit in the 1970?
+    option1:    Red bulls
+    option2:    Newyork Cosmos
+    option3:    Detroit Eagles
+    option4:    LA fighters
+A:  option2
+
+q34:    What defender won England Player of the year in 2010?
+    option1:    John Terry
+    option2:    Gregor Robertson
+    option3:    Norman Hunter
+    option4:    Ashley Cole
+A:  option4
+
+q35:    Where did chelsea win their first European Cup winners Cup?
+    option1:    Athens
+    option2:    Tokyo
+    option3:    Madrid
+    option4:    Paris
+A:  option1
+
+q36:    Oliver Kahn started playing professional soccer in 1987, How old was he at the time?
+    option1:    21
+    option2:    22
+    option3:    19
+    option4:    18
+A:  option4
+
+q37:    Who won the first ever FA premier league?
+    option1:    Liverpool
+    option2:    Manchester United
+    option3:    Bolton Wonderers
+    option4:    Ipswich Town
+A:  option2
+
+q38:    Who was the first goalkepper to score a premiership goal?
+    option1:    Brad friedel
+    option2:    Peter Schmeichel
+    option3:    Paul Robinson
+    option4:    Tim Howard
+A:  option2
+
+q39:    Who was the first player to score 4 goals in a premiership?
+    option1:    Peter Ndlovu
+    option2:    David White
+    option3:    Eric Cantona
+    option4:    Efan Ekoku
+A:  option4
+
+q40:    
