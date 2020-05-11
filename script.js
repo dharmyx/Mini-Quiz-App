@@ -179,8 +179,92 @@ let questions = [{
     },
 
     {
-        q: 'True or False, You can lick your elbow.',
-        options: ['Oya try am na, make we see.', 'False', 'Shey you dey whine me ni?', 'True'],
+        q: 'Which actress played Katriss Everdeen in "The Hunger Games"?',
+        options: ['Jenifer Lawrence', 'Alexa Scott', 'Cameron Diaz', 'Julia Roberts'],
+        answer: 0
+    },
+
+    {
+        q: 'Which state is known as the Empire State?',
+        options: ['Washington DC', 'Chicago', 'New york', 'California'],
+        answer: 2
+    },
+
+    {
+        q: 'Where is the Bermuda Triangle situated?',
+        options: ['In the Northern part of the South Atlantic ocean', 'In the Eastern part of the South Atlantic ocean', 'In the Southern part of the North Atlantic ocean', 'In the Western part of the North Atlantic ocean'],
+        answer: 3
+    },
+
+    {
+        q: 'Who is Googled more than Jesus?',
+        options: ['Jamie Fox', 'Justin Beiber', 'Tim Westwood', 'Donald Trump'],
+        answer: 1
+    },
+
+    {
+        q: 'Who was the First Black President of the United States?',
+        options: ['Thomas Contee', 'Barrack Obama', 'Douglass George', 'John Hanson'],
+        answer: 3
+    },
+
+    {
+        q: 'Which country has not fought a war since 1814?',
+        options: ['Belgium', 'Romania', 'Sweden', 'Lithuania'],
+        answer: 2
+    },
+
+    {
+        q: 'Who scored the first goal at Wembley Stadium?',
+        options: ['David Jack', 'Billy Bassett', 'Wilf Mannion', 'Steve Bloomer'],
+        answer: 0
+    },
+
+    {
+        q: 'Brazilian legend Pele played for which US Major league outfit in the 1970?',
+        options: ['Red bulls', 'Newyork Cosmos', 'Detroit Eagles', 'LA fighters'],
+        answer: 1
+    },
+
+    {
+        q: 'What defender won England Player of the year in 2010?',
+        options: ['John Terry', 'Gregor Robertson', 'Norman Hunter', 'Ashley Cole'],
+        answer: 3
+    },
+
+    {
+        q: 'Where did chelsea win their first European Cup winners Cup?',
+        options: ['Athens', 'Tokyo', 'Madrid', 'Paris'],
+        answer: 0
+    },
+
+    {
+        q: 'Oliver Kahn started playing professional soccer in 1987, How old was he at the time?',
+        options: ['21', '22', '19', '18'],
+        answer: 3
+    },
+
+    {
+        q: 'Who won the first ever FA premier league?',
+        options: ['Liverpool', 'Manchester United', 'Bolton Wonderers', 'Ipswich Town'],
+        answer: 1
+    },
+
+    {
+        q: 'Who was the first goalkepper to score a premiership goal?',
+        options: ['Brad friedel', 'Peter Schmeichel', 'Paul Robinson', 'Tim Howard'],
+        answer: 1
+    },
+
+    {
+        q: 'Who was the first player to score 4 goals in a premiership?',
+        options: ['Peter Ndlovu', 'David White', 'Eric Cantona', 'Efan Ekoku'],
+        answer: 3
+    },
+
+    {
+        q: 'If PERSONALITY is to 1651819151411292025, then 493209151411825 is to ___ ?',
+        options: ['COLLEGIATE', 'DICTIONARY', 'COMPROMISE', 'MUNDANE'],
         answer: 1
     },
 

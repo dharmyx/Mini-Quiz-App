@@ -273,4 +273,9 @@ q39:    Who was the first player to score 4 goals in a premiership?
     option4:    Efan Ekoku
 A:  option4
 
-q40:    
+q40:    If PERSONALITY is to 1651819151411292025, then 493209151411825 is to ?
+    option1:    COLLEGIATE
+    option2:    DICTIONARY
+    option3:    COMPROMISE
+    option4:    MUNDANE
+A:  option2
