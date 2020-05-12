@@ -268,6 +268,12 @@ let questions = [{
         answer: 1
     },
 
+    {
+        q: 'What is the real name of the popular WWE character "THE UNDERTAKER"?',
+        options: ['Jason Stormborn', 'Mark Calaway', 'Xavier Frost', 'Jeff Dwayne'],
+        answer: 1
+    },
+
 ]
 
 // Set question Options and question number
