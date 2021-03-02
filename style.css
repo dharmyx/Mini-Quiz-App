@@ -1,168 +1,168 @@
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=oacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    margin: 0 auto;
-    background-image: url(https://source.unsplash.com/random/1600x1000/?education);
-    background-repeat: no-repeat;
-    background-size: cover;
-    font-family: 'Questrial';
-    top: 0;
+  margin: 0 auto;
+  background-image: url(/img/bg-calc17.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Questrial';
+  top: 0;
+  color: #ffffff;
 }
 
 /*Intro Section*/
 
 .introSpace {
-    margin-top: 150px;
-    max-width: 450px;
+  margin: 6rem;
+  width: fit-content;
+  border: 5px double #b61120;
 }
 
 .innerSpace {
-    display: table;
-    vertical-align: middle;
-    width: 100%;
-    max-width: 450px; 
+  display: table;
+  vertical-align: middle;
+  width: 100%;
 }
 
 .content {
-    max-width: 450px;
-    margin: 0 auto;
-    text-align: center;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .iQtest {
-    font-size: 60px;
-    font-weight: 900;
-    color: #262626;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    text-shadow: 0px 0px 600px #000;
-    animation: rubberBandIn 2s;
+  font-size: 60px;
+  font-weight: 900;
+  margin: 10px auto;
+  animation: rubberBandIn 2s;
 }
 
 @keyframes rubberBandIn {
-    from {
-      transform: scale3d(1, 1, 1);
-    }
-  
-    30% {
-      transform: scale3d(1.25, 0.75, 1);
-    }
-  
-    40% {
-      transform: scale3d(0.75, 1.25, 1);
-    }
-  
-    50% {
-      transform: scale3d(1.15, 0.85, 1);
-    }
-  
-    65% {
-      transform: scale3d(0.95, 1.05, 1);
-    }
-  
-    75% {
-      transform: scale3d(1.05, 0.95, 1);
-    }
-  
-    to {
-      transform: scale3d(1, 1, 1);
-    }
+  from {
+    transform: scale3d(1, 1, 1);
   }
 
+  30% {
+    transform: scale3d(1.25, 0.75, 1);
+  }
 
-.iQtest2 {
-    margin-top: 30px;
-    margin-bottom: 10px;
+  40% {
+    transform: scale3d(0.75, 1.25, 1);
+  }
+
+  50% {
+    transform: scale3d(1.15, 0.85, 1);
+  }
+
+  65% {
+    transform: scale3d(0.95, 1.05, 1);
+  }
+
+  75% {
+    transform: scale3d(1.05, 0.95, 1);
+  }
+
+  to {
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+h3 {
+  margin: 0px;
+  padding: 0px 30px;
 }
 
 .oyaBtn {
-    font-family: 'Questrial';
-    color: #262626;
-    font-size: 145%;
-    padding: 10px 20px;
-    border: solid #262626 4px;
-    text-transform: uppercase;
-    text-decoration: none;
-    text-shadow: 0px 0px 600px #000;
+  font-family: 'Questrial';
+  color: #f1f1f1;
+  font-size: 145%;
+  padding: 10px 20px;
+  border: solid #b61120 3px;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-shadow: 0px 0px 600px #000;
 }
 
 .oyaBtn:hover {
-    color: #4e4e50;
-    border: solid #4e4e50 4px;
+  color: #4e4e50;
+  background-color:#b61120 
+  border: solid #4e4e50 4px;
 }
 
 .messUp {
-    font-family: 'Sacramento';
-    font-size: 20px;
-    margin-top: 20px;
+  color: #ffffff;
+  font-family: 'Prompt', sans-serif;
+  font-size: .9rem;
+  margin-top: 20px;
 }
 
 .intro {
-    text-align: center;
-    max-width: 450px;
-    margin: 0 auto;
-    padding: 10px;
-    font-size: 20px;
-    color: #262626;
-    font-weight: 700;
-    animation: rubberBandIn 2s;
+  text-align: center;
+  max-width: 450px;
+  margin: 0 auto;
+  padding: 10px;
+  font-size: 20px;
+  color: #262626;
+  font-weight: 700;
+  animation: rubberBandIn 2s;
 }
 
 @keyframes rubberBandIn {
-    from {
-      transform: scale3d(1, 1, 1);
-    }
-  
-    30% {
-      transform: scale3d(1.25, 0.75, 1);
-    }
-  
-    40% {
-      transform: scale3d(0.75, 1.25, 1);
-    }
-  
-    50% {
-      transform: scale3d(1.15, 0.85, 1);
-    }
-  
-    65% {
-      transform: scale3d(0.95, 1.05, 1);
-    }
-  
-    75% {
-      transform: scale3d(1.05, 0.95, 1);
-    }
-  
-    to {
-      transform: scale3d(1, 1, 1);
-    }
+  from {
+    transform: scale3d(1, 1, 1);
   }
+
+  30% {
+    transform: scale3d(1.25, 0.75, 1);
+  }
+
+  40% {
+    transform: scale3d(0.75, 1.25, 1);
+  }
+
+  50% {
+    transform: scale3d(1.15, 0.85, 1);
+  }
+
+  65% {
+    transform: scale3d(0.95, 1.05, 1);
+  }
+
+  75% {
+    transform: scale3d(1.05, 0.95, 1);
+  }
+
+  to {
+    transform: scale3d(1, 1, 1);
+  }
+}
 
 /*Score Display Section*/
 .score-display {
-    width: 450px;
-    max-width: 85%;
-    padding: 2px;
-    color: #fff;
-    background-color: #1e2024;
-    margin: 0 auto;
-    border-radius: 10px 10px 10px 0px;
-    text-align: center;
-    font-size: 12px;
-    box-shadow: 0 0 2px 0.5px #000;
+  width: 450px;
+  max-width: 85%;
+  padding: 2px;
+  color: #fff;
+  background-color: #1e2024;
+  margin: 0 auto;
+  border-radius: 10px 10px 10px 0px;
+  text-align: center;
+  font-size: 12px;
+  box-shadow: 0 0 2px 0.5px #000;
 }
+
 /*Timer Display*/
 
-.time-up-text{
+.time-up-text {
   color: #d23723;
   font-weight: 500;
   display: none;
 }
+
 /*
 .time-up-text .show{
   display: inline-block;
@@ -196,281 +196,287 @@ body {
 
 /*Quiz Container Section*/
 .quiz-container {
-    width: 450px;
-    max-width: 85%;
-    min-height: 400px;
-    background-color: #f2f3f4;
-    box-shadow: 0 0 10px 1px #000;
-    margin: 16px auto;
-    padding: 20px;
-    border-radius: 10px 10px 10px 0px;
-    animation: topToDown 1s ease-in-out 1;
+  width: 450px;
+  max-width: 85%;
+  min-height: 400px;
+  background-color: #f2f3f4;
+  box-shadow: 0 0 10px 1px #000;
+  margin: 16px auto;
+  padding: 20px;
+  border-radius: 10px 10px 10px 0px;
+  animation: topToDown 1s ease-in-out 1;
 }
 
 @keyframes topToDown {
-    0% {
-        opacity: 0;
-        transform: translateY(-25px);
-    }
-    100% {
-        opacity: 1;
-        transform: translateY(0px);
-    }
+  0% {
+    opacity: 0;
+    transform: translateY(-25px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
 }
 
-.quiz-container::after, .quiz-container::before {
-    content: '';
-    clear: both;
-    display: table;
+.quiz-container::after,
+.quiz-container::before {
+  content: '';
+  clear: both;
+  display: table;
 
 }
+
 .question-number,
 .question,
 .options,
 .button,
 .answer-tracker {
-    float: left;
-    width: 100%;
+  float: left;
+  width: 100%;
 }
 
 .question-number h3 {
-    color: #535d6f;
-    border-bottom: solid 2px #000;
-    margin: 0;
-    padding: 10px;
-    font-weight: 600;
+  color: #535d6f;
+  border-bottom: solid 2px #000;
+  margin: 0;
+  padding: 10px;
+  font-weight: 600;
 }
 
 .question {
-    font-size: 16px;
-    line-height: 1.5;
-    color: #535d6f;
-    padding-top: 20px;
-    padding-bottom: 25px;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #535d6f;
+  padding-top: 20px;
+  padding-bottom: 25px;
 }
 
 .options div {
-    background-color: #cccbcc;
-    font-size: 14px;
-    color: #535d6f;
-    padding: 10px;
-    margin-bottom: 10px;
-    border-radius: 5px 5px 5px 0px;
-    position: relative;
-    overflow: hidden;
-    cursor: pointer;
+  background-color: #cccbcc;
+  font-size: 14px;
+  color: #535d6f;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px 5px 5px 0px;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
 }
 
 .options div.disabled {
-    pointer-events: none;
+  pointer-events: none;
 }
 
 .options div:hover {
-    background-color: #1e2024;
-    color: #fff;
+  background-color: #1e2024;
+  color: #fff;
 }
 
 .options div.correct {
-    z-index: 1;
-    color: #ffffff;
+  z-index: 1;
+  color: #ffffff;
 }
 
-.options div.correct::before{
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: green;
-    z-index: -1;
-    transform: translateX(-100%);
-    animation: animateBackground 1s ease;
-    animation-fill-mode: forwards;
+.options div.correct::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: green;
+  z-index: -1;
+  transform: translateX(-100%);
+  animation: animateBackground 1s ease;
+  animation-fill-mode: forwards;
 }
 
 @keyframes animateBackground {
-    0%{
-        transform: translateX(-100%);
-    }
-    100% {
-        transform: translateX(0%);
-    }
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(0%);
+  }
 }
 
 .options div.wrong {
-    z-index: 1;
-    color: #ffffff;
+  z-index: 1;
+  color: #ffffff;
 }
 
-.options div.wrong::before{
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: red;
-    z-index: -1;
-    transform: translateX(-100%);
-    animation: animateBackground 1s ease;
-    animation-fill-mode: forwards;
+.options div.wrong::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: red;
+  z-index: -1;
+  transform: translateX(-100%);
+  animation: animateBackground 1s ease;
+  animation-fill-mode: forwards;
 }
 
 @keyframes animateBackground {
-    0%{
-        transform: translateX(-100%);
-    }
-    100% {
-        transform: translateX(0%);
-    }
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(0%);
+  }
 }
 
 .button .btn {
-    padding: 10px 30px;
-    border-radius: 10px 10px 10px 0px;
-    font-size: 15px;
-    border: none;
-    text-transform: uppercase;
-    color: #ffffff;
-    background-color: #1e2024;
-    /*display: inline-block;*/
-    float: right;
-    margin: 30px 0 20px;
-    animation: pulseInOut 0.5s ease-in-out 5;
+  padding: 10px 30px;
+  border-radius: 10px 10px 10px 0px;
+  font-size: 15px;
+  border: none;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #1e2024;
+  /*display: inline-block;*/
+  float: right;
+  margin: 30px 0 20px;
+  animation: pulseInOut 0.5s ease-in-out 5;
 }
 
 @keyframes pulseInOut {
-    from {
-      transform: scale3d(1, 1, 1);
-    }
-  
-    50% {
-      transform: scale3d(1.05, 1.05, 1.05);
-    }
-  
-    to {
-      transform: scale3d(1, 1, 1);
-    }
+  from {
+    transform: scale3d(1, 1, 1);
   }
 
+  50% {
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+
+  to {
+    transform: scale3d(1, 1, 1);
+  }
+}
+
 .button:hover .btn:hover {
-    cursor: pointer;
-    background-color: #313133;
+  cursor: pointer;
+  background-color: #313133;
 }
 
 .answer-tracker {
-    border-top: 2px solid #000;
-    padding-top: 20px;
+  border-top: 2px solid #000;
+  padding-top: 20px;
 }
 
 .answer-tracker div {
-    width: 5px;
-    height: 5px;
-    background-color: #ccc;
-    display: inline-block;
-    border-radius: 50%;
-    margin-right: 5px;
+  width: 5px;
+  height: 5px;
+  background-color: #ccc;
+  display: inline-block;
+  border-radius: 50%;
+  margin-right: 5px;
 }
 
 .answer-tracker div.correct {
-    background-color: green;
-    background-position: center;
-    background-repeat: no-repeat;
+  background-color: green;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .answer-tracker div.wrong {
-    background-color: red;
-    background-position: center;
-    background-repeat: no-repeat;
+  background-color: red;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 /*Footer Section*/
 
 h5 {
-    text-align: center;
-    margin: 0 auto;
-    max-width: 400px;
-    font-weight: 800;
-    padding: 20px;
-    color: #262626;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 400px;
+  font-weight: 800;
+  padding: 20px;
+  color: #262626;
 }
 
 .quiz-over {
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: #2c2333;
-    z-index: 10;
-    display: none;
-    align-items: center;
-    justify-content: center;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #2c2333;
+  z-index: 10;
+  display: none;
+  align-items: center;
+  justify-content: center;
 }
+
 .quiz-over.show {
-    display: flex;
+  display: flex;
 }
 
 
 .quiz-over .box {
-    background-color: #f2f2f2;
-    padding: 30px;
-    border-radius: 20px;
-    text-align: center;
-    max-width: 350px;
-    flex-basis: 350px;
-    animation: flashInDown 3s ease-in-out 1;
+  background-color: #f2f2f2;
+  padding: 30px;
+  border-radius: 20px;
+  text-align: center;
+  max-width: 350px;
+  flex-basis: 350px;
+  animation: flashInDown 3s ease-in-out 1;
 }
 
 @keyframes flashInDown {
-    from {
-      opacity: 0;
-      transform: scale3d(0.1, 0.1, 0.1) translate3d(0, -1000px, 0);
-      animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
-    }
-  
-    60% {
-      opacity: 1;
-      transform: scale3d(0.475, 0.475, 0.475) translate3d(0, 60px, 0);
-      animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1);
-    }
+  from {
+    opacity: 0;
+    transform: scale3d(0.1, 0.1, 0.1) translate3d(0, -1000px, 0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
   }
+
+  60% {
+    opacity: 1;
+    transform: scale3d(0.475, 0.475, 0.475) translate3d(0, 60px, 0);
+    animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1);
+  }
+}
 
 
 .quiz-over .box h2 {
-    font-size: 30px;
-    line-height: 1.2;
+  font-size: 30px;
+  line-height: 1.2;
 }
 
 img {
-    width: 50px;
-    height: 50px;
-    border-radius: 100%;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
 }
 
 .quiz-over .box button {
-    padding: 20px 50px;
-    border-radius: 15px;
-    font-size: 16px;
-    background-color: #2c2333;
-    margin: 15px 0 20px;
-    font-weight: 700;
-    color: #fff;
-    cursor: pointer;
-    animation: pulseInOut 0.5s ease-in-out 5;
+  padding: 20px 50px;
+  border-radius: 15px;
+  font-size: 16px;
+  background-color: #2c2333;
+  margin: 15px 0 20px;
+  font-weight: 700;
+  color: #fff;
+  cursor: pointer;
+  animation: pulseInOut 0.5s ease-in-out 5;
 }
 
 @keyframes pulseInOut {
-    from {
-      transform: scale3d(1, 1, 1);
-    }
-  
-    50% {
-      transform: scale3d(1.05, 1.05, 1.05);
-    }
-  
-    to {
-      transform: scale3d(1, 1, 1);
-    }
+  from {
+    transform: scale3d(1, 1, 1);
   }
+
+  50% {
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+
+  to {
+    transform: scale3d(1, 1, 1);
+  }
+}
